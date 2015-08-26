@@ -27,7 +27,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(http://ucpa.ucsd.edu/images/work/_standard/geisel-wss-7.jpg) no-repeat center center fixed; 
+  /*background-image: ./../img/intro-bg.jpg  no-repeat center center fixed; */
   display: table;
   color: white;
   height: 100%;
