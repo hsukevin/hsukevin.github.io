@@ -32,9 +32,9 @@ h6 {
 }
 
 p {
-    margin: 0 0 25px;
-    font-size: 18px;
-    line-height: 1.5;
+    margin: 0 0 15px;
+    font-size: 17px;
+    line-height: 1.4;
 }
 
 a {
@@ -363,4 +363,16 @@ body {
     width: 20%; 
     margin: 1%;
     height: 20%;
+}
+
+.project_image_left{
+    width: 65%; 
+    float: left; 
+    margin: 5%;
+}
+
+.project_image_right{
+    width: 65%; 
+    float: right; 
+    margin: 5%;
 }
