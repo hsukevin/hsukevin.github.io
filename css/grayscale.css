@@ -376,3 +376,20 @@ body {
     float: right; 
     margin: 5%;
 }
+
+.key_features {
+    width: 50%;
+    margin: auto;
+}
+
+.key_features p{
+    text-align: left;
+    font-size: 22px;
+    margin: 0 0 10px -20px;
+    text-decoration: underline;
+}
+
+.key_features li{
+    text-align: left;
+    font-size: 16px;
+}
