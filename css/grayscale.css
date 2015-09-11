@@ -351,8 +351,8 @@ body {
 }
 
 .image_profile {
-    width: 35%; 
-    height: 35%;
+    width: 30%; 
+    height: 30%;
 }
 
 .image_resume {
@@ -404,4 +404,15 @@ body {
     float: left;
     width: 70%;
     margin: 0 15% 25% 15%;
+}
+
+.fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.fade:hover {
+    opacity: 0.5;
 }
